@@ -1,68 +1,68 @@
-⚔️ Shadows and Steel: The Floating Realms ⚔️
-Welcome, traveler, to the floating archipelagos of Aethelgard. Shadows and Steel is an immersive, interactive web experience that serves as the digital gateway to a rich, dark fantasy universe. This repository holds the code and assets for a sophisticated landing page designed to captivate visitors and draw them into the lore of our upcoming tabletop RPG setting.
+⚔️ Shadows and Steel: Os Reinos Flutuantes ⚔️
+Bem-vindo, viajante, aos arquipélagos flutuantes de Aethelgard. Shadows and Steel é uma experiência web imersiva e interativa que serve como portal digital para um rico universo de fantasia sombria. Este repositório contém o código e os ativos para uma sofisticada página de entrada, projetada para cativar os visitantes e atraí-los para a história do nosso futuro cenário de RPG de mesa.
 
-📜 About the Project
-This project is the front-end manifestation of the Shadows and Steel world-building initiative. The goal was to create a highly atmospheric, cinematic entry point that establishes the tone—a blend of ancient, forgotten magic and encroaching industrial shadow—before the user delves deeper into the game mechanics, lore compendium, or community discussions.
+📜 Sobre o Projeto
+Este projeto é a manifestação front-end da iniciativa de construção de mundo de Shadows and Steel. O objetivo foi criar um ponto de entrada altamente atmosférico e cinematográfico que estabeleça o tom — uma mistura de magia antiga e esquecida e uma sombra industrial iminente — antes que o usuário mergulhe mais fundo na mecânica do jogo, no compêndio de lore ou nas discussões da comunidade.
 
-The current landing page features:
+A página de entrada atual apresenta:
 
-A Captivating Hero Section: Dominated by a breathtaking panoramic view of the Floating Realms, enveloped in a deep, atmospheric fog with ancient ruins and waterfalls.
+Uma Seção de Cabeçalho Cativante: Dominada por uma vista panorâmica de tirar o fôlego dos Reinos Flutuantes, envoltos em uma névoa profunda e atmosférica com ruínas antigas e cachoeiras.
 
-Elegant Navigation: Minimalist, translucent text links ("HOME", "SOBRE", "CONTATO") that contrast beautifully with the dark background, guiding users through the portal.
+Navegação Elegante: Links de texto minimalistas e translúcidos ("HOME", "SOBRE", "CONTATO") que contrastam lindamente com o fundo escuro, guiando os usuários pelo portal.
 
-A Call to Action: A prominent, ornate button labeled "ENTER", featuring a stylized skull motif, beckoning the user to begin their journey.
+Um Chamado para Ação: Um botão proeminente e ornamentado rotulado como "ENTER", com um motivo de caveira estilizado, convidando o usuário a iniciar sua jornada.
 
-A Dark Fantasy Aesthetic: The entire interface is styled with a somber palette of slate greys, mossy greens, and cold blues, ensuring the world-art remains the focal point.
+Uma Estética de Fantasia Sombria: Toda a interface é estilizada com uma paleta sóbria de cinzas ardósia, verdes musgo e azuis frios, garantindo que a arte do mundo permaneça o ponto focal.
 
-🖼️ Visual Showcase
-To complement the live experience, here are high-resolution visual interpretations of key aspects of the project's aesthetic and universe.
+🖼️ Galeria Visual
+Para complementar a experiência ao vivo, aqui estão interpretações visuais de alta resolução de aspectos-chave da estética e do universo do projeto.
 
-1. The Gateway: A Closer Look at the Portal
-This image is a focused, cinematic render of the central portal archway seen on the main page. It emphasizes the contrast between the ancient stone, the lush green moss, and the ethereal, glowing energy field within. The intricate metalwork on the "ENTER" button is more visible, showcasing the dark fantasy craftsmanship.
+1. O Portão: Um Olhar Mais Atento ao Portal
+Esta imagem é uma renderização focada e cinematográfica do arco do portal central visto na página principal. Ela enfatiza o contraste entre a pedra antiga, o musgo verde exuberante e o campo de energia etéreo e brilhante em seu interior. O trabalho de metal intrincado no botão "ENTER" é mais visível, mostrando o artesanato de fantasia sombria.
 
-2. The Architects: An Island View
-This cinematic panorama expands upon the environment hinted at in the main view. It showcases multiple interconnected floating islands, revealing the scale of the ancient ruins and the breathtaking, dizzying heights. The cold mist permeates the scene, giving it a sense of deep history and isolation.
+2. Os Arquitetos: Uma Vista da Ilha
+Este panorama cinematográfico expande o ambiente sugerido na visão principal. Ele mostra várias ilhas flutuantes interconectadas, revelando a escala das ruínas antigas e as alturas de tirar o fôlego e vertiginosas. A névoa fria permeia a cena, dando-lhe uma sensação de história profunda e isolamento.
 
-🚀 Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+🚀 Primeiros Passos
+Estas instruções permitirão que você tenha uma cópia do projeto em funcionamento na sua máquina local para fins de desenvolvimento e teste.
 
-Prerequisites
-What you need to install the software and how to run it:
+Pré-requisitos
+O que você precisa para instalar o software e como executá-lo:
 
-A modern web browser (Chrome, Firefox, Edge, Safari).
+Um navegador da web moderno (Chrome, Firefox, Edge, Safari).
 
-Basic knowledge of HTML/CSS to customize the content.
+Conhecimento básico de HTML/CSS para personalizar o conteúdo.
 
-Optional: A code editor like VS Code for local development.
+Opcional: Um editor de código como o VS Code para desenvolvimento local.
 
-Installation
-Clone the Repository:
+Instalação
+Clone o Repositório:
 
 Bash
-git clone https://github.com/your-username/shadows-and-steel.git
-Navigate to the Project Directory:
+git clone https://github.com/viktor2555/shadows-and-steel.git
+Navegue até o Diretório do Projeto:
 
 Bash
 cd shadows-and-steel
-Open the Entry Point:
-Simply double-click index.html to open the landing page in your default browser.
+Abra o Ponto de Entrada:
+Simplesmente clique duas vezes em index.html para abrir a página de entrada no seu navegador padrão.
 
-🛠️ Built With
-HTML5: Structure and semantic markup.
+🛠️ Construído Com
+HTML5: Estrutura e marcação semântica.
 
-CSS3: Styling, layout, and atmospheric effects.
+CSS3: Estilização, layout e efeitos atmosféricos.
 
-Custom Assets: All background art and UI elements are bespoke for Shadows and Steel.
+Ativos Personalizados: Toda a arte de fundo e elementos da UI são feitos sob medida para Shadows and Steel.
 
-🤝 Contributing
-Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+🤝 Contribuindo
+Por favor, leia CONTRIBUTING.md (se disponível) para detalhes sobre nosso código de conduta e o processo de envio de solicitações pull.
 
-✒️ Authors
-Viktor Luís Sanches - Initial Work & World Concept - viktor2555
+✒️ Autores
+Viktor Luís Sanches - Trabalho Inicial e Conceito de Mundo - viktor2555
 
-🎁 Acknowledgments
-To the brave adventurers who dare to cross the veil.
+🎁 Agradecimentos
+Aos bravos aventureiros que ousam cruzar o véu.
 
-Inspiration drawn from classic dark fantasy and weird fiction.
+Inspiração extraída da fantasia sombria clássica e da ficção estranha (weird fiction).
 
-May the shadows serve you, and the steel remain true.
+Que as sombras sirvam a você, e que o aço permaneça verdadeiro.
